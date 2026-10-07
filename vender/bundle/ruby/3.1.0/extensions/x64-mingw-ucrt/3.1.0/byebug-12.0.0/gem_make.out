@@ -1,0 +1,20 @@
+current directory: C:/Users/kuniy/sugawara/git/wonderful_editor/vender/bundle/ruby/3.1.0/gems/byebug-12.0.0/ext/byebug
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: C:/Users/kuniy/sugawara/git/wonderful_editor/vender/bundle/ruby/3.1.0/gems/byebug-12.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20261007-29284-jnp8ev sitelibdir\=./.gem.20261007-29284-jnp8ev clean
+
+current directory: C:/Users/kuniy/sugawara/git/wonderful_editor/vender/bundle/ruby/3.1.0/gems/byebug-12.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20261007-29284-jnp8ev sitelibdir\=./.gem.20261007-29284-jnp8ev
+generating byebug-x64-mingw-ucrt.def
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: C:/Users/kuniy/sugawara/git/wonderful_editor/vender/bundle/ruby/3.1.0/gems/byebug-12.0.0/ext/byebug
+make DESTDIR\= sitearchdir\=./.gem.20261007-29284-jnp8ev sitelibdir\=./.gem.20261007-29284-jnp8ev install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20261007-29284-jnp8ev/byebug
