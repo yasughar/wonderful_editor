@@ -1,0 +1,7 @@
+## 261011
+Introduced `devise_token_auth`
+Next, will introduce PostagreSQL via Docker (HOW?)
+
+## 261012
+Set database configuration
+Next, setting rubocop
